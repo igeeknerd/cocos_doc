@@ -6,7 +6,8 @@ mac环境配置</br>
 3.source ~/.bash_profile  
 4.基本指令：cocos new | cocos run | cocos compile -p -m  
 安装Xamp  
-安装webstorm  
-安装chrome webstorm调试插件 - jetbrains ide support  
+安装webstorm  
+安装chrome webstorm调试插件 - jetbrains ide support  
 安装vscode chrome 插件  
+
 
